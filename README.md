@@ -1,7 +1,6 @@
 
 
 При написании данного кейса были использованы:
-  * PyCharm
   * Python
   * Selenium
   * Pytest
